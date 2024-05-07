@@ -1,4 +1,4 @@
-# react-bucket-list
+# react-bucket-list 🪣📝☑
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
@@ -97,4 +97,4 @@ You can view my projects by going through my GitHub profile at [https://github.c
 
 ## <a name="link"></a>Deployed Application 🚀
 
-[]()
+[https://react-bucket-list.netlify.app/](https://react-bucket-list.netlify.app/)
